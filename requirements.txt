@@ -3,3 +3,4 @@ pipx
 setuptools
 colorama
 psycopg2-binary
+test
