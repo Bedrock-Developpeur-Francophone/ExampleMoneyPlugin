@@ -13,3 +13,5 @@ dependencies = [
 
 [project.entry-points."endstone"]
 economy = "endstone_economy:EconomyPlugin"
+
+# test
