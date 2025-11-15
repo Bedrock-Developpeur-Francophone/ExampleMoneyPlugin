@@ -1,0 +1,4 @@
+endstone
+pipx
+setuptools
+colorama
