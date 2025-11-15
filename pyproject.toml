@@ -7,7 +7,8 @@ name = "endstone-economy"
 version = "0.0.1"
 description = "My first Python plugin for Endstone servers!"
 dependencies = [
-    "colorama >= 0.4.6"
+    "colorama >= 0.4.6",
+    "psycopg2-binary >= 2.9.11"
 ]
 
 [project.entry-points."endstone"]
